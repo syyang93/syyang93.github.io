@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-# title: don't want a title
+title: Stephanie Yang's homepage
 
 # Short description of your site
 description: Stephanie Yang's homepage
@@ -74,7 +74,7 @@ social-network-links:
 #  twitter: placeholder
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: stephanie-yang-53225b57
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

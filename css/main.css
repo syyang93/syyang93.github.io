@@ -126,6 +126,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   float: right;
+  text-align: right;
   font-weight: 800;
   color: {{ site.navbar-text-col }};
 }

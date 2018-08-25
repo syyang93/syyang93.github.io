@@ -1,8 +1,14 @@
 ---
 layout: page
 title: Home
-subtitle: Stephanie Yang, Human Genetics PhD Candidate
+subtitle: 
 use-site-title: false
 ---
 
-##### Hello
+## Stephanie Yang, PhD. Candidate
+### Human Genetics Graduate Student
+### Arking Lab
+### 733 N Broadway 
+### Miller Research Building Room 420
+### syang93@jhmi.edu
+

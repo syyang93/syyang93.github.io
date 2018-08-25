@@ -126,8 +126,6 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  position: absolute;
-  right: 50%;
   color: {{ site.navbar-text-col }};
 }
 
@@ -172,7 +170,7 @@ img {
 
 .navbar-custom .avatar-container {
   position: absolute;
-  right: 50%;
+  left: 50%;
   width: 50px;
   margin-top: -25px;
 }
@@ -214,8 +212,8 @@ img {
 }
 
 .container-fluid  {
-  padding-left: max(20px, env(safe-area-inset-left));
-  padding-right: max(20px, env(safe-area-inset-right));
+  padding-left: max(15px, env(safe-area-inset-left));
+  padding-right: max(15px, env(safe-area-inset-right));
 }
 
 /* Multi-level navigation links */

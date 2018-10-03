@@ -41,22 +41,8 @@ Intern, Infectious Diseases Department, Naval Medical Research Center, Silver Sp
 
 
 Skills
-Notable Software and Programming Languages
-R	Perl	Python
-Java	Bash	IGV
-Plink	Impute2	ShapeIT
-DEPICT	Eigenstrat	Epacts
-FAST	R-seqMeta	R-survival
-METAL	RAREMETAL	OpenGridEngine
-Affymetrix Power Tools⁣⁣	NCBI SRA Toolkit	
-Notable Molecular Biology Techniques
-Dissection of optic nerve	Cryosectioning
-in situ Hybridization	FISH with Mito DNA
-TUNEL assay	Immunohistochemistry
-Protein in vitro expression⁣⁣	Protein-protein interaction assays
-Protein Solubilization	Phenotypic Analysis
-Western Plotting	Affinity Chromatography
-Sub-cloning	E. coli Culturing and Induction
-Yeast 2-Hybrid	Oligo Design
-Confocal Microscopy	PCR Amplification
-Bimolecular Fluorescence Complementation (BiFC)
+Molecular Biology
+
+Software and Programming
+
+Languages

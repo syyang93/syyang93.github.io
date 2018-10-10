@@ -4,8 +4,6 @@ title: Home
 subtitle: 
 use-site-title: false
 ---
-
-
 ------------------------------
 Stephanie Yang, PhD. Candidate   
 Human Genetics Graduate Student   

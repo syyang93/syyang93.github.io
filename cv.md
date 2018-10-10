@@ -4,14 +4,15 @@ title: CV
 subtitle: 
 use-site-title: false
 ---
-
+------------------------------
 **Education**    
 PhD. Candidate, Arking lab   
 Johns Hopkins University School of Medicine, Baltimore, MD  
 McKusick-Nathans Institute of Genetic Medicine  
 
-A.B. in Chemistry, magna cum laude with ACS certification 2011-2015  
-Bryn Mawr College, Bryn Mawr, PA  
+A.B. in Chemistry, Magna cum laude, ACS certified  
+Bryn Mawr College, Bryn Mawr, PA
+
 
 **Research Experience**  
 Rotation student, Cutting lab  
@@ -27,8 +28,6 @@ Undergraduate Research Assistant, Chemistry Department, Bryn Mawr College		April
 		-Evaluated DNA intercalation and photocleavage ability of complexes
 		-Presented research findings at group meetings
 
-
-
 Intern, Infectious Diseases Department, Naval Medical Research Center, Silver Spring, MD		May – August 2013
 		-Conducted literature review and presented findings on Chagas Disease assays
 		-Tested and compared sensitivity and specificity of primer sets for Trypanosoma cruzi
@@ -40,7 +39,7 @@ Intern, Infectious Diseases Department, Naval Medical Research Center, Silver Sp
 
 
 
-**Skills**
+**Skills**  
 Molecular Biology
 
 Software and Programming

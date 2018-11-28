@@ -49,18 +49,21 @@ MyCountry                           1800 my-phone-nr
 
 **Education**
 ---------
+PhD. Candidate, Arking lab   
+ 
+McKusick-Nathans Institute of Genetic Medicine  
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+A.B. in Chemistry, Magna cum laude, ACS certified  
+Bryn Mawr College, Bryn Mawr, PA
+)
+:   *PhD Candidate, Human Genetics*; 
+Johns Hopkins University School of Medicine, Baltimore, MD
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2011-2015
+:   **A.B. in Chemistry**; *Magna cum laude, ACS certified, Biochemistry Concentration*; Bryn Mawr College, Bryn Mawr, PA
 
 Experience
 ----------

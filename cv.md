@@ -42,28 +42,20 @@ Stephanie Yang
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        syang93@jhmi.edu
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+syang93@jhmi.edu
 -------------------     ----------------------------
 
 **Education**
 ---------
-PhD. Candidate, Arking lab   
- 
-McKusick-Nathans Institute of Genetic Medicine  
+2016 - Current <br>
+PhD. Candidate in Human Genetics, Arking Lab <br>
+McKusick-Nathans Institute of Genetic Medicine <br>
+Johns Hopkins University School of Medicine, Baltimore, MD <br>
 
-A.B. in Chemistry, Magna cum laude, ACS certified  
+2011-2015 <br>
+**A.B. in Chemistry** <br>
+Magna cum laude, ACS certified, Biochemistry Concentration  <br>
 Bryn Mawr College, Bryn Mawr, PA
-)
-:   *PhD Candidate, Human Genetics*; 
-Johns Hopkins University School of Medicine, Baltimore, MD
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2011-2015
-:   **A.B. in Chemistry**; *Magna cum laude, ACS certified, Biochemistry Concentration*; Bryn Mawr College, Bryn Mawr, PA
 
 Experience
 ----------

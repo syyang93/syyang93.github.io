@@ -29,9 +29,9 @@ Undergraduate Research Assistant, Chemistry Department, Bryn Mawr College		April
 		- Presented research findings at group meetings
 
 Intern, Infectious Diseases Department, Naval Medical Research Center, Silver Spring, MD		May – August 2013   
-		- Conducted literature review and presented findings on Chagas Disease assays
-		- Tested and compared sensitivity and specificity of primer sets for Trypanosoma cruzi
-		- Created and cloned a gene of interest into a plasmid to serve as positive control
+		* Conducted literature review and presented findings on Chagas Disease assays
+		* Tested and compared sensitivity and specificity of primer sets for Trypanosoma cruzi
+		* Created and cloned a gene of interest into a plasmid to serve as positive control
 
 
 

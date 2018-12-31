@@ -8,6 +8,7 @@ use-site-title: false
 **Education** 
 <br>
 **2016-Present**
+<br>
 PhD. Candidate, Arking lab   
 Johns Hopkins University School of Medicine, Baltimore, MD  
 McKusick-Nathans Institute of Genetic Medicine  

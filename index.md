@@ -5,8 +5,8 @@ subtitle:
 use-site-title: false
 ---
 ------------------------------
-### Stephanie Yang, PhD. Candidate   
-Human Genetics Graduate Student   
+### Stephanie Yang
+Human Genetics PhD. Candidate
 Arking Lab  
 733 N Broadway   
 Miller Research Building, Room 420  

@@ -15,7 +15,7 @@ McKusick-Nathans Institute of Genetic Medicine
 A.B. in Chemistry, Magna cum laude, ACS certified  
 Bryn Mawr College, Bryn Mawr, PA
 
-------------------------------
+***
 **Research Experience**  
 2016-2017  
 Rotation student, Cutting lab

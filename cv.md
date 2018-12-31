@@ -7,19 +7,20 @@ use-site-title: false
 ------------------------------
 **Education** 
 <br>
-__**2016-Present**__  
+**2016-Present**
 PhD. Candidate, Arking lab   
 Johns Hopkins University School of Medicine, Baltimore, MD  
 McKusick-Nathans Institute of Genetic Medicine  
 
-__**2011-2015**__  
+**2011-2015**  
 A.B. in Chemistry, Magna cum laude, ACS certified  
 Bryn Mawr College, Bryn Mawr, PA
 
 ***
 **Research Experience**
 <br>
-__**2016-2017**__  
+**2016-2017**
+<br>
 *Rotation student, Cutting lab*
 <br>
 Compared normalization methods for RNA-sequencing
@@ -31,22 +32,23 @@ Analyzed a single-cell RNA sequencing dataset with the goal of understanding cor
 <br>
 <br>
 *Rotation student, Lloyd lab*
+<br>
 Performed a fly screen to identify genes of interest in C9 ALS
 <br>
 <br>
-__**2015-2016**__  
+**2015-2016**  
 *NIH Postbac IRTA* 
 <br>
 Utilized the CRISPR/Cas9 system to edit induced pluripotent stem cells
 <br>
 <br>
-__**2013-2015**__  
+**2013-2015**  
 *Undergraduate Research Assistant, Bryn Mawr College*
 <br>
 Synthesized ruthenium polypyridyl complexes and evaluated DNA intercalation and photocleavage ability
 <br>
 <br>
-__**2013**__  
+**2013**  
 *Intern, Naval Medical Research Center*
 <br>
 Tested and compared sensitivity and specificity of primer sets for Trypanosoma cruzi  

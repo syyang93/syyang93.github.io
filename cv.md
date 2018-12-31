@@ -18,12 +18,12 @@ Bryn Mawr College, Bryn Mawr, PA
 ***
 **Research Experience**  
 2016-2017  
-Rotation student, Cutting lab
-* Compared normalization methods for RNA-sequencing
-Rotation student, Goff lab 
-* Analyzed a single-cell RNA sequencing dataset with the goal of understanding cortical development in mice 
-Rotation student, Lloyd lab  
-* Performed a fly screen to identify genes of interest in C9 ALS
+Rotation student, Cutting lab  
+-Compared normalization methods for RNA-sequencing
+Rotation student, Goff lab   
+-Analyzed a single-cell RNA sequencing dataset with the goal of understanding cortical development in mice   
+Rotation student, Lloyd lab   
+-Performed a fly screen to identify genes of interest in C9 ALS  
 
 2015-2016  
 NIH Postbac IRTA

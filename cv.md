@@ -6,30 +6,35 @@ use-site-title: false
 ---
 ------------------------------
 **Education**    
+2016-Present  
 PhD. Candidate, Arking lab   
 Johns Hopkins University School of Medicine, Baltimore, MD  
 McKusick-Nathans Institute of Genetic Medicine  
 
+2015  
 A.B. in Chemistry, Magna cum laude, ACS certified  
 Bryn Mawr College, Bryn Mawr, PA
 
-
+------------------------------
 **Research Experience**  
-Rotation student, Cutting lab  
-Rotation student, Goff lab  
+2016-2017  
+Rotation student, Cutting lab
+* Compared normalization methods for RNA-sequencing
+Rotation student, Goff lab 
+* Analyzed a single-cell RNA sequencing dataset with the goal of understanding cortical development in mice 
 Rotation student, Lloyd lab  
+* Performed a fly screen to identify genes of interest in C9 ALS
 
-NIH Postbac IRTA, Genetics of Development and Disease Branch, NIDDK, Bethesda, MD		July 2015 – June 2016  
-		- Conducted research on induced pluripotent stem cells
-		- Gained experience with the CRISPR/Cas9 system
+2015-2016  
+NIH Postbac IRTA
+* Utilized the CRISPR/Cas9 system to edit induced pluripotent stem cells
 
-Undergraduate Research Assistant, Chemistry Department, Bryn Mawr College		April 2013 – May 2015  
-		- Synthesized ruthenium polypyridyl complexes
-		- Evaluated DNA intercalation and photocleavage ability of complexes
-		- Presented research findings at group meetings
+2013-2015  
+Undergraduate Research Assistant, Bryn Mawr College
+* Synthesized ruthenium polypyridyl complexes
+* Evaluated DNA intercalation and photocleavage ability of complexes
 
-* Intern, Infectious Diseases Department, Naval Medical Research Center, Silver Spring, MD		May – August 2013    
-		* Conducted literature review and presented findings on Chagas Disease assays    
-		* Tested and compared sensitivity and specificity of primer sets for Trypanosoma cruzi  
-		* Created and cloned a gene of interest into a plasmid to serve as positive control . 
+2013
+Intern, Naval Medical Research Center
+* Tested and compared sensitivity and specificity of primer sets for Trypanosoma cruzi  
 		

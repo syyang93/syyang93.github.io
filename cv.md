@@ -5,7 +5,7 @@ subtitle:
 use-site-title: false
 ---
 ------------------------------
-## Education ## 
+**Education** 
 <br>
 __**2016-Present**__  
 PhD. Candidate, Arking lab   
@@ -17,7 +17,7 @@ A.B. in Chemistry, Magna cum laude, ACS certified
 Bryn Mawr College, Bryn Mawr, PA
 
 ***
-## Research Experience ##
+**Research Experience**
 <br>
 __**2016-2017**__  
 *Rotation student, Cutting lab*

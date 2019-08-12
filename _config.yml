@@ -23,7 +23,7 @@ description: Stephanie Yang's homepage
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  About: ""
   CV: "cv"
   Publications: "https://scholar.google.com/citations?user=bbaKvhMAAAAJ&hl=en"
   Arking Lab: "http://arkinglab.org/"

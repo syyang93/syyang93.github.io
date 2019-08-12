@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Home
+title: About Me
 subtitle: 
 use-site-title: false
 ---
 ------------------------------
-### Stephanie Yang
-Human Genetics PhD. Candidate
+Stephanie Yang    
+Human Genetics PhD. Candidate   
 Arking Lab  
 733 N Broadway   
 Miller Research Building, Room 420  

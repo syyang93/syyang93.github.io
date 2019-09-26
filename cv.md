@@ -20,6 +20,9 @@ Bryn Mawr College, Bryn Mawr, PA
 ***
 **Research Experience**
 <br>
+**2018-Current**   
+<br>    
+*Ph.D. candidate, Arking lab*
 **2016-2017**
 <br>
 *Rotation student, Cutting lab*

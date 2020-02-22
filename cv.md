@@ -38,8 +38,6 @@ Used plink to perform quality control on 1000 genomes data, extracted SNPs that 
 <br>
 Utilized the CRISPR/Cas9 system to edit induced pluripotent stem cells.  
 <br>
-<br>
-
 **2011-2015**  
 A.B. in Chemistry, Magna cum laude, ACS certified  
 Bryn Mawr College, Bryn Mawr, PA   
@@ -48,7 +46,6 @@ Bryn Mawr College, Bryn Mawr, PA
 *Undergraduate Research Assistant, Bryn Mawr College*
 <br>
 Synthesized ruthenium polypyridyl complexes and evaluated DNA intercalation and photocleavage ability.  
-<br>
 <br>
 **2013**  
 *Intern, Naval Medical Research Center*

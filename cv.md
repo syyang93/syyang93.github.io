@@ -10,11 +10,11 @@ use-site-title: false
 **2016-Present**
 <br>
 PhD. Candidate, Arking lab   
-<br>
-My work in the Arking lab focuses on linear mixed models to understand the relationships between mitochondrial DNA copy number and nuclear gene expression.  I also work on elucidating the relationships between mitochondrial DNA heteroplasmy and aging-related diseases.  
-<br>
 Johns Hopkins University School of Medicine, Baltimore, MD  
 McKusick-Nathans Institute of Genetic Medicine  
+<br>
+My work in the Arking lab focuses on using statistical models to understand the relationships between mitochondrial DNA copy number and nuclear gene expression.  I also work on elucidating the relationships between mitochondrial DNA heteroplasmy and aging-related diseases.  
+<br>
 
 **2016-2017**
 <br>

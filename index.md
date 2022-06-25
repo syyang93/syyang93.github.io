@@ -6,11 +6,10 @@ use-site-title: false
 ---
 ------------------------------
 
-I am currently a fourth-year Human Genetics Graduate Student in Dan Arking's lab at the Johns Hopkins School of Medicine.  My work focuses on understanding how mitochondrial DNA copy number and heteroplasmy can affect biological pathways.  Always interested in learning more about coding and genetics!
+I am currently a Computational Research Scientist at Vertex Pharmaceuticals. 
+
+I completed a PhD in Human Genetics in Dan Arking's lab at the Johns Hopkins School of Medicine.  My PhD work focused on understanding how mitochondrial DNA copy number and heteroplasmy can affect biological pathways.  Always interested in learning more about coding and genetics!
 
 #### Contact Info:  
 Stephanie Yang    
-Arking Lab  
-733 N Broadway   
-Miller Research Building, Room 420  
-syang93@jhmi.edu  
+syang93@jh.alumni.edu  
